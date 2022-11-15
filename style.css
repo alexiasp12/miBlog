@@ -1,0 +1,12 @@
+#app{
+    background-color: lightpink;
+}
+.line{
+    height: 6px;
+    background-color: deeppink;
+    width: 70px;
+    margin: 8px auto;
+}
+#juegos{
+    background-color: mediumaquamarine;
+}
